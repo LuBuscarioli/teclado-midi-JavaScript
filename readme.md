@@ -1,1 +1,1 @@
-Estudo em JavaScript para teclado sonoro midi
+Estudo em JavaScript para teclado sonoro midi.
